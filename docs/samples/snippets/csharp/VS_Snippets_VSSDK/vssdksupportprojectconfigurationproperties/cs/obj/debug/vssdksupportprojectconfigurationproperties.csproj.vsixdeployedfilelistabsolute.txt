@@ -1,0 +1,8 @@
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\VSSDKSupportProjectConfigurationProperties.dll
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\VSSDKSupportProjectConfigurationProperties.pkgdef
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\extension.vsixmanifest
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\VSSDKSupportProjectConfigurationProperties.pdb
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\VSSDKSupportProjectConfigurationProperties.dll
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\VSSDKSupportProjectConfigurationProperties.pkgdef
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\extension.vsixmanifest
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportProjectConfigurationProperties\1.0\\VSSDKSupportProjectConfigurationProperties.pdb

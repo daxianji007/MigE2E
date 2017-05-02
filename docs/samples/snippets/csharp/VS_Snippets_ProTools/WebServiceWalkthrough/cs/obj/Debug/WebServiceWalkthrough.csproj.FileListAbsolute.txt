@@ -1,0 +1,12 @@
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.exe.config
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.Form1.resources
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.Properties.Resources.resources
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.csproj.GenerateResource.Cache
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.exe
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.pdb
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.exe
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\cs\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.pdb
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\cs\bin\Debug\WebServiceWalkthrough.exe.config
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\cs\obj\Debug\WebServiceWalkthrough.exe
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\cs\obj\Debug\WebServiceWalkthrough.pdb

@@ -1,0 +1,4 @@
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TWShortcutMenu\1.0\\TWShortcutMenu.dll
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TWShortcutMenu\1.0\\TWShortcutMenu.pkgdef
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TWShortcutMenu\1.0\\extension.vsixmanifest
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TWShortcutMenu\1.0\\TWShortcutMenu.pdb

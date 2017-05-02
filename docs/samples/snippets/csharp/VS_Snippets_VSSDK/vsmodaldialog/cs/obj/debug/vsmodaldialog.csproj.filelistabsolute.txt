@@ -1,0 +1,37 @@
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.csproj.ResolveComReference.cache
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\MyModalDialog.baml
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\MyModalDialog.g.cs
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog_MarkupCompile.cache
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.g.resources
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSPackage.resources
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\Microsoft.VSModalDialog.Resources.resources
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\GenerateResource.read.1.tlog
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\GenerateResource.write.1.tlog
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.cto
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\bin\Debug\VSModalDialog.dll
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\bin\Debug\VSModalDialog.pdb
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\bin\Debug\VSModalDialog.pkgdef
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\bin\Debug\VSModalDialog.vsix
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\bin\Debug\extension.vsixmanifest
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.dll
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.pdb
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.pkgdef
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSModalDialog.latest.pkgdef
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\extension.vsixmanifest
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSCT.read.1.tlog
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSCT.write.1.tlog
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\VSPackage.resources.original
+c:\users\leithmc\documents\visual studio 10\Projects\VSModalDialog\VSModalDialog\obj\Debug\CtoResourceMerger.cache
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSModalDialog.csproj.ResolveComReference.cache
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSModalDialog_MarkupCompile.cache
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSModalDialog.dll
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSModalDialog.pdb
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\bin\Debug\VSModalDialog.dll
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\MyModalDialog.baml
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\MyModalDialog.g.cs
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSModalDialog.g.resources
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSPackage.resources
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\Microsoft.VSModalDialog.Resources.resources
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\obj\Debug\VSModalDialog.csproj.GenerateResource.Cache
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSModalDialog\cs\bin\Debug\VSModalDialog.pdb

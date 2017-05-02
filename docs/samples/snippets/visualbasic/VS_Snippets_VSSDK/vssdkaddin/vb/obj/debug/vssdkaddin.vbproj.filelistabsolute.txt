@@ -1,0 +1,15 @@
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\bin\VSSDKAddin.dll
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\bin\VSSDKAddin.pdb
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\bin\VSSDKAddin.xml
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\obj\Debug\VSSDKAddin.vbproj.ResolveComReference.cache
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\obj\Debug\VSSDKAddin.dll
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\obj\Debug\VSSDKAddin.xml
+C:\Users\a-jobaxt\Desktop\Dev10\VB\VSSDKAddin\obj\Debug\VSSDKAddin.pdb
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\bin\VSSDKAddin.dll
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\bin\VSSDKAddin.pdb
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\bin\VSSDKAddin.xml
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\obj\Debug\VSSDKAddin.vbproj.ResolveComReference.cache
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\obj\Debug\VSSDKAddin.dll
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\obj\Debug\VSSDKAddin.xml
+D:\sdtree\Parsnip\Dev11\Dev11SDK\VSSDKAddin\VB\obj\Debug\VSSDKAddin.pdb

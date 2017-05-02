@@ -1,0 +1,4 @@
+Project files for the topic:
+
+User Interfaces > Toolbox > Walkthroughs > 
+Walktrough: Dynamic Customization of ToolboxItem Configuration

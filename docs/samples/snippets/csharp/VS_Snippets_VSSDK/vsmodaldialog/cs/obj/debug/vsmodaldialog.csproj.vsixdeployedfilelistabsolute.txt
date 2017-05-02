@@ -1,0 +1,4 @@
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSModalDialog\1.0\\VSModalDialog.dll
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSModalDialog\1.0\\VSModalDialog.pkgdef
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSModalDialog\1.0\\extension.vsixmanifest
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSModalDialog\1.0\\VSModalDialog.pdb

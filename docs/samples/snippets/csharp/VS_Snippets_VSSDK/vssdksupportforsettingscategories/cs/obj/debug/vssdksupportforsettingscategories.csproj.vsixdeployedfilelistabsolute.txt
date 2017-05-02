@@ -1,0 +1,8 @@
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\VSSDKSupportForSettingsCategories.dll
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\VSSDKSupportForSettingsCategories.pkgdef
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\extension.vsixmanifest
+C:\Users\a-jobaxt\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\VSSDKSupportForSettingsCategories.pdb
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\VSSDKSupportForSettingsCategories.dll
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\VSSDKSupportForSettingsCategories.pkgdef
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\extension.vsixmanifest
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKSupportForSettingsCategories\1.0\\VSSDKSupportForSettingsCategories.pdb

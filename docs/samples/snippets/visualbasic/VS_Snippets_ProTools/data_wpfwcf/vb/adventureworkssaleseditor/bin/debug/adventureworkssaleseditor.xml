@@ -1,0 +1,212 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AdventureWorksSalesEditor
+</name>
+</assembly>
+<members>
+<member name="M:AdventureWorksSalesEditor.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:AdventureWorksSalesEditor.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:AdventureWorksSalesEditor.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.AdventureWorksService.AdventureWorksLTEntities.#ctor(System.Uri)">
+	<summary>
+Initialize a new AdventureWorksLTEntities object.
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.AdventureWorksService.AdventureWorksLTEntities.ResolveTypeFromName(System.String)">
+	<summary>
+Since the namespace configured for this service reference
+in Visual Studio is different from the one indicated in the
+server schema, use type-mappers to map between the two.
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.AdventureWorksService.AdventureWorksLTEntities.ResolveNameFromType(System.Type)">
+	<summary>
+Since the namespace configured for this service reference
+in Visual Studio is different from the one indicated in the
+server schema, use type-mappers to map between the two.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.AdventureWorksLTEntities.SalesOrderHeaders">
+	<summary>
+There are no comments for SalesOrderHeaders in the schema.
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.AdventureWorksService.AdventureWorksLTEntities.AddToSalesOrderHeaders(AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader)">
+	<summary>
+There are no comments for SalesOrderHeaders in the schema.
+</summary>
+</member><member name="T:AdventureWorksSalesEditor.AdventureWorksService.AdventureWorksLTEntities">
+	<summary>
+There are no comments for AdventureWorksLTEntities in the schema.
+</summary>
+</member><member name="M:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.CreateSalesOrderHeader(System.Int32,System.Byte,System.DateTime,System.DateTime,System.Byte,System.Boolean,System.String,System.Int32,System.String,System.Decimal,System.Decimal,System.Decimal,System.Decimal,System.Guid,System.DateTime)">
+	<summary>
+Create a new SalesOrderHeader object.
+</summary>
+	<param name="salesOrderID">Initial value of SalesOrderID.</param>
+	<param name="revisionNumber">Initial value of RevisionNumber.</param>
+	<param name="orderDate">Initial value of OrderDate.</param>
+	<param name="dueDate">Initial value of DueDate.</param>
+	<param name="status">Initial value of Status.</param>
+	<param name="onlineOrderFlag">Initial value of OnlineOrderFlag.</param>
+	<param name="salesOrderNumber">Initial value of SalesOrderNumber.</param>
+	<param name="customerID">Initial value of CustomerID.</param>
+	<param name="shipMethod">Initial value of ShipMethod.</param>
+	<param name="subTotal">Initial value of SubTotal.</param>
+	<param name="taxAmt">Initial value of TaxAmt.</param>
+	<param name="freight">Initial value of Freight.</param>
+	<param name="totalDue">Initial value of TotalDue.</param>
+	<param name="rowguid">Initial value of rowguid.</param>
+	<param name="modifiedDate">Initial value of ModifiedDate.</param>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.SalesOrderID">
+	<summary>
+There are no comments for Property SalesOrderID in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.RevisionNumber">
+	<summary>
+There are no comments for Property RevisionNumber in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.OrderDate">
+	<summary>
+There are no comments for Property OrderDate in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.DueDate">
+	<summary>
+There are no comments for Property DueDate in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.ShipDate">
+	<summary>
+There are no comments for Property ShipDate in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.Status">
+	<summary>
+There are no comments for Property Status in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.OnlineOrderFlag">
+	<summary>
+There are no comments for Property OnlineOrderFlag in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.SalesOrderNumber">
+	<summary>
+There are no comments for Property SalesOrderNumber in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.PurchaseOrderNumber">
+	<summary>
+There are no comments for Property PurchaseOrderNumber in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.AccountNumber">
+	<summary>
+There are no comments for Property AccountNumber in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.CustomerID">
+	<summary>
+There are no comments for Property CustomerID in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.ShipToAddressID">
+	<summary>
+There are no comments for Property ShipToAddressID in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.BillToAddressID">
+	<summary>
+There are no comments for Property BillToAddressID in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.ShipMethod">
+	<summary>
+There are no comments for Property ShipMethod in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.CreditCardApprovalCode">
+	<summary>
+There are no comments for Property CreditCardApprovalCode in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.SubTotal">
+	<summary>
+There are no comments for Property SubTotal in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.TaxAmt">
+	<summary>
+There are no comments for Property TaxAmt in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.Freight">
+	<summary>
+There are no comments for Property Freight in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.TotalDue">
+	<summary>
+There are no comments for Property TotalDue in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.Comment">
+	<summary>
+There are no comments for Property Comment in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.rowguid">
+	<summary>
+There are no comments for Property rowguid in the schema.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader.ModifiedDate">
+	<summary>
+There are no comments for Property ModifiedDate in the schema.
+</summary>
+</member><member name="T:AdventureWorksSalesEditor.AdventureWorksService.SalesOrderHeader">
+	<summary>
+There are no comments for AdventureWorksLTModel.SalesOrderHeader in the schema.
+</summary>
+	<KeyProperties>
+SalesOrderID
+</KeyProperties>
+</member><member name="P:AdventureWorksSalesEditor.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AdventureWorksSalesEditor.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:AdventureWorksSalesEditor.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:AdventureWorksSalesEditor.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:AdventureWorksSalesEditor.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:AdventureWorksSalesEditor.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:AdventureWorksSalesEditor.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:AdventureWorksSalesEditor.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,5 @@
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFServiceCS\AdventureWorksService\AdventureWorksService\bin\AdventureWorksService.dll
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFServiceCS\AdventureWorksService\AdventureWorksService\bin\AdventureWorksService.pdb
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFServiceCS\AdventureWorksService\AdventureWorksService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFServiceCS\AdventureWorksService\AdventureWorksService\obj\Debug\AdventureWorksService.dll
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFServiceCS\AdventureWorksService\AdventureWorksService\obj\Debug\AdventureWorksService.pdb

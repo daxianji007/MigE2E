@@ -1,0 +1,17 @@
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.dll
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.pdb
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.pkgdef
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\bin\Debug\TopLevelMenu.vsix
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\bin\Debug\extension.vsixmanifest
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.csproj.ResolveComReference.cache
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\VSPackage.resources
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\Microsoft.TopLevelMenu.Resources.resources
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\GenerateResource.read.1.tlog
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\GenerateResource.write.1.tlog
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.cto
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.dll
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.pdb
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.pkgdef
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\TopLevelMenu.latest.pkgdef
+c:\users\leithmc\documents\visual studio 2010\Projects\TopLevelMenu\TopLevelMenu\obj\Debug\extension.vsixmanifest

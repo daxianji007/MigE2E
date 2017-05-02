@@ -1,0 +1,4 @@
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TopLevelMenu\1.0\\TopLevelMenu.dll
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TopLevelMenu\1.0\\TopLevelMenu.pkgdef
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TopLevelMenu\1.0\\extension.vsixmanifest
+C:\Users\leithmc\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Microsoft\TopLevelMenu\1.0\\TopLevelMenu.pdb

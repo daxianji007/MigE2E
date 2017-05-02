@@ -1,0 +1,15 @@
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.exe.config
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.exe
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.pdb
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\bin\Debug\WebServiceWalkthrough.xml
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.Form1.resources
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.Resources.resources
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.exe
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.xml
+C:\Documents and Settings\sstein\Desktop\WebServiceWalkthroughs\vb\WebServiceWalkthrough\WebServiceWalkthrough\obj\Debug\WebServiceWalkthrough.pdb
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\vb\bin\Debug\WebServiceWalkthrough.exe.config
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\vb\obj\Debug\WebServiceWalkthrough.exe
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\vb\obj\Debug\WebServiceWalkthrough.xml
+C:\sdtree\Dev10\VSProTools\WebServiceWalkthrough\vb\obj\Debug\WebServiceWalkthrough.pdb

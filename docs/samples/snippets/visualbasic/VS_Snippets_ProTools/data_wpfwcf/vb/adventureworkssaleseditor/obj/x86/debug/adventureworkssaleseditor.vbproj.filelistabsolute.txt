@@ -1,0 +1,16 @@
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\bin\Debug\AdventureWorksSalesEditor.exe
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\bin\Debug\AdventureWorksSalesEditor.pdb
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\bin\Debug\AdventureWorksSalesEditor.xml
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\MainWindow.g.vb
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\Application.g.vb
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor_MarkupCompile.cache
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor.g.resources
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor.Resources.resources
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor.exe
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor.xml
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor.pdb
+C:\Users\sstein\Documents\Visual Studio 2010\Projects\WPFService - VB\AdventureWorksService\AdventureWorksSalesEditor\obj\x86\Debug\AdventureWorksSalesEditor_MarkupCompile.lref

@@ -1,0 +1,17 @@
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\bin\Debug\WPFCounter2.dll
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\bin\Debug\WPFCounter2.pdb
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\bin\Debug\WPFCounter2.pkgdef
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\bin\Debug\WPFCounter2.vsix
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\bin\Debug\extension.vsixmanifest
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\ToolboxControl.baml
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\ToolboxControl.g.cs
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\WPFCounter2_MarkupCompile.cache
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\WPFCounter2.g.resources
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\WPFCounter2.Properties.Resources.resources
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\GenerateResource.read.1.tlog
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\GenerateResource.write.1.tlog
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\WPFCounter2.dll
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\WPFCounter2.pdb
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\WPFCounter2.pkgdef
+c:\users\leithmc\documents\visual studio 2010\Projects\WPFCounter2\WPFCounter2\obj\Debug\extension.vsixmanifest

@@ -1,0 +1,4 @@
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKAuto\1.0\\VSSDKAuto.dll
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKAuto\1.0\\VSSDKAuto.pkgdef
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKAuto\1.0\\extension.vsixmanifest
+C:\Users\susanno\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Microsoft\VSSDKAuto\1.0\\VSSDKAuto.pdb
