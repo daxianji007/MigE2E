@@ -13,7 +13,7 @@ ms.author: "shujia"
 # MigrationE2E-MD1
 ###Content hahaha
 
-Reference topic: [F# Guide](../Topic/Visual%20F%23%20Guided%20Tour.xml)    
+Reference topic: [F# Guide](~/SimpleMDExport/visual-fsharp-guided-tour.md)    
 
 Reference token: [!INCLUDE[MigrationE2E-token-normal](../includes/migratione2e-token-normal.md)]
 
