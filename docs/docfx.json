@@ -33,7 +33,7 @@
       "layout": "Conceptual"
     },
     "fileMetadata": {},
-    "template": [],
+    "template": "docs.html",
     "dest": "ducuments"
   }
 }
