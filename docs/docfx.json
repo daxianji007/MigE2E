@@ -29,7 +29,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "layout": "Conceptual"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "ducuments"
