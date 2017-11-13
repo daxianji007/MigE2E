@@ -1,9 +1,5 @@
 ---
-applies_to: 
-  - Dynamics 365 (online)
-  - Dynamics 365 (on-premises)
-  - Dynamics CRM 2016
-  - Dynamics CRM Online
+applies_to: Dynamics 365 (online)
 ---
 
 You interact with the Web API by composing and sending       HTTPrequests. You need to know how to set the appropriate       HTTPheaders and handle any errors included in the response.  
